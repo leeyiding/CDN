@@ -1,0 +1,597 @@
+{
+  "酷安": {
+    "type": "usr",
+    "name": "coolapk",
+    "suffix": ".png",
+    "retinaSuffix": ".png",
+    "imgClass": "small",
+    "container": [
+      {
+        "icon": "hahaha",
+        "text": "哈哈哈"
+      },
+      {
+        "icon": "jingya",
+        "text": "惊讶"
+      },
+      {
+        "icon": "ciya",
+        "text": "呲牙"
+      },
+      {
+        "icon": "liulei",
+        "text": "流泪"
+      },
+      {
+        "icon": "keai",
+        "text": "可爱"
+      },
+      {
+        "icon": "weixiao",
+        "text": "微笑"
+      },
+      {
+        "icon": "hehe",
+        "text": "呵呵"
+      },
+      {
+        "icon": "piezui",
+        "text": "撇嘴"
+      },
+      {
+        "icon": "se",
+        "text": "色"
+      },
+      {
+        "icon": "aoman",
+        "text": "傲慢"
+      },
+      {
+        "icon": "yiwen",
+        "text": "疑问"
+      },
+      {
+        "icon": "wuyu",
+        "text": "无语"
+      },
+      {
+        "icon": "huaixiao",
+        "text": "坏笑"
+      },
+      {
+        "icon": "bishi",
+        "text": "鄙视"
+      },
+      {
+        "icon": "fanu",
+        "text": "发怒"
+      },
+      {
+        "icon": "baonu",
+        "text": "暴怒"
+      },
+      {
+        "icon": "tuosai",
+        "text": "托腮"
+      },
+      {
+        "icon": "tushe",
+        "text": "吐舌"
+      },
+      {
+        "icon": "han",
+        "text": "汗"
+      },
+      {
+        "icon": "koubi",
+        "text": "抠鼻"
+      },
+      {
+        "icon": "qinqin",
+        "text": "亲亲"
+      },
+      {
+        "icon": "penxue",
+        "text": "喷血"
+      },
+      {
+        "icon": "xiaoyan",
+        "text": "笑颜"
+      },
+      {
+        "icon": "shui",
+        "text": "睡"
+      },
+      {
+        "icon": "wuzuixiao",
+        "text": "捂嘴笑"
+      },
+      {
+        "icon": "zaijian",
+        "text": "再见"
+      },
+      {
+        "icon": "kelian",
+        "text": "可怜"
+      },
+      {
+        "icon": "xiaoku",
+        "text": "笑哭"
+      },
+      {
+        "icon": "qiang",
+        "text": "强"
+      },
+      {
+        "icon": "ruo",
+        "text": "弱"
+      },
+      {
+        "icon": "baoquan",
+        "text": "抱拳"
+      },
+      {
+        "icon": "ok",
+        "text": "OK"
+      },
+      {
+        "icon": "heiha",
+        "text": "嘿哈"
+      },
+      {
+        "icon": "wulian",
+        "text": "捂脸"
+      },
+      {
+        "icon": "jizhi",
+        "text": "机智"
+      },
+      {
+        "icon": "ye",
+        "text": "耶"
+      },
+      {
+        "icon": "wozuimei",
+        "text": "我最美"
+      },
+      {
+        "icon": "ku",
+        "text": "酷"
+      },
+      {
+        "icon": "heixian",
+        "text": "黑线"
+      },
+      {
+        "icon": "pen",
+        "text": "喷"
+      },
+      {
+        "icon": "yinxian",
+        "text": "阴险"
+      },
+      {
+        "icon": "nanguo",
+        "text": "难过"
+      },
+      {
+        "icon": "weiqu",
+        "text": "委屈"
+      },
+      {
+        "icon": "chigua",
+        "text": "吃瓜"
+      },
+      {
+        "icon": "hejiu",
+        "text": "喝酒"
+      },
+      {
+        "icon": "pu",
+        "text": "噗"
+      },
+      {
+        "icon": "weiweiyixiao",
+        "text": "微微一笑"
+      },
+      {
+        "icon": "huanhu",
+        "text": "欢呼"
+      },
+      {
+        "icon": "baiyan",
+        "text": "白眼"
+      },
+      {
+        "icon": "naikezui",
+        "text": "耐克嘴"
+      },
+      {
+        "icon": "tnaikezui",
+        "text": "t耐克嘴"
+      },
+      {
+        "icon": "haixiu",
+        "text": "害羞"
+      },
+      {
+        "icon": "wunai",
+        "text": "无奈"
+      },
+      {
+        "icon": "zhoumei",
+        "text": "皱眉"
+      },
+      {
+        "icon": "qqdoge",
+        "text": "QQdoge"
+      },
+      {
+        "icon": "fadai",
+        "text": "发呆"
+      },
+      {
+        "icon": "shufu",
+        "text": "舒服"
+      },
+      {
+        "icon": "landeli",
+        "text": "懒得理"
+      },
+      {
+        "icon": "bukaixin",
+        "text": "不开心"
+      },
+      {
+        "icon": "tiaomeihuaixiao",
+        "text": "挑眉坏笑"
+      },
+      {
+        "icon": "haipa",
+        "text": "害怕"
+      },
+      {
+        "icon": "hengji",
+        "text": "哼唧"
+      },
+      {
+        "icon": "aida",
+        "text": "挨打"
+      },
+      {
+        "icon": "jiaxiao",
+        "text": "假笑"
+      },
+      {
+        "icon": "toukan",
+        "text": "偷看"
+      },
+      {
+        "icon": "hecha",
+        "text": "喝茶"
+      },
+      {
+        "icon": "ohouhou",
+        "text": "哦吼吼"
+      },
+      {
+        "icon": "yanmianxiao",
+        "text": "掩面笑"
+      },
+      {
+        "icon": "biaomiankuqi",
+        "text": "表面哭泣"
+      },
+      {
+        "icon": "biaomiankaixin",
+        "text": "表面开心"
+      },
+      {
+        "icon": "huaji",
+        "text": "滑稽"
+      },
+      {
+        "icon": "liuhanhuaji",
+        "text": "流汗滑稽"
+      },
+      {
+        "icon": "shounuehuaji",
+        "text": "受虐滑稽"
+      },
+      {
+        "icon": "coshuaji",
+        "text": "COS滑稽"
+      },
+      {
+        "icon": "doujiyanhuaji",
+        "text": "斗鸡眼滑稽"
+      },
+      {
+        "icon": "mojinghuaji",
+        "text": "墨镜滑稽"
+      },
+      {
+        "icon": "xiaozuihuaji",
+        "text": "小嘴滑稽"
+      },
+      {
+        "icon": "doge",
+        "text": "doge"
+      },
+      {
+        "icon": "dogexiaoku",
+        "text": "doge笑哭"
+      },
+      {
+        "icon": "dogehechi",
+        "text": "doge呵斥"
+      },
+      {
+        "icon": "dogeyuanliangta",
+        "text": "doge原谅他"
+      },
+      {
+        "icon": "miaomiao",
+        "text": "喵喵"
+      },
+      {
+        "icon": "erha",
+        "text": "二哈"
+      },
+      {
+        "icon": "erhading",
+        "text": "二哈盯"
+      },
+      {
+        "icon": "aixin",
+        "text": "爱心"
+      },
+      {
+        "icon": "xinsui",
+        "text": "心碎"
+      },
+      {
+        "icon": "meigui",
+        "text": "玫瑰"
+      },
+      {
+        "icon": "diaoxie",
+        "text": "凋谢"
+      },
+      {
+        "icon": "caidao",
+        "text": "菜刀"
+      },
+      {
+        "icon": "nb",
+        "text": "牛逼"
+      },
+      {
+        "icon": "pyjiaoyi",
+        "text": "PY交易"
+      },
+      {
+        "icon": "lvyaowan",
+        "text": "绿药丸"
+      },
+      {
+        "icon": "hongyaowan",
+        "text": "红药丸"
+      },
+      {
+        "icon": "kuan",
+        "text": "酷安"
+      },
+      {
+        "icon": "kuandiaoyu",
+        "text": "酷安钓鱼"
+      },
+      {
+        "icon": "lvmao",
+        "text": "绿帽"
+      },
+      {
+        "icon": "kuanlvmao",
+        "text": "酷安绿帽"
+      },
+      {
+        "icon": "huoba",
+        "text": "火把"
+      },
+      {
+        "icon": "coolbi",
+        "text": "酷币"
+      }
+    ]
+  },
+  "皮皮虾": {
+    "type": "usr",
+    "name": "ppx",
+    "suffix": "@2x.png",
+    "retinaSuffix": "@3x.png",
+    "imgClass": "small",
+    "container": [
+      "1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25",
+      "26","27","28","29","30","31","32","33","34","35","36","37","38","40","41","42","43","44","46","47","48","49","50",
+      "51","52","53","54","55","57","58","59","60","61","62","63","64","65","66","67","69","72","74","76","77","78","79",
+      "80","81","82","85","86","87","90","92","93","94","95","96","97","98","99","102","103","104","107","108","109",
+      "110","111","112","113","114","all","ba","bainian","bianpao","bird","bulls","chanche","chepiao","chick","chinamoney",
+      "drive","drug","eagle","egg","eye","facai","feiji","fengzheng","flower","fu","gouliang","gouwuche","greenhat","gu",
+      "guazi","guihua","hongbao","horse","huadeng","jiaozi","jiu","lingmeng","longxia","longzhou","mantou","mushroom",
+      "needle","niulang","noodle","pipi","qinglv","qingshu","qiqiu","qiuye","shengridangao","shu","shuijiao","star",
+      "tianyuebing","tianzong","tiger","turtle","tuzi","weishengzhi","wenhao","wocao","xiandan","xianyuebing","xianzong",
+      "xique","yijianchuanxin","yueliang","zhaoxiangji","zhinv"
+    ]
+  },
+  "QQ": {
+    "type": "usr",
+    "name": "qq",
+    "suffix": ".gif",
+    "retinaSuffix": ".gif",
+    "imgClass": "small",
+    "container": [
+      "1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25",
+      "26","27","28","29","30","31","32","33","34","35","36","37","38","40","41","42","43","44","45","46","47","48","49","50",
+      "51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75",
+      "76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99","100",
+      "101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121",
+      "122","123","124","125","126","127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142",
+      "143","144","145","146","147","148","149"
+    ]
+  },
+  "泡泡": {
+    "type": "biaoqing",
+    "baseURL": "{BIAOQING_PAOPAO_PATH}",
+    "suffix": ".png",
+    "retinaSuffix": "_2x.png",
+    "input": "@({NAME})",
+    "imgClass": "biaoqing newpaopao",
+    "container": [
+      "呵呵",		"哈哈",		"吐舌",		"太开心",	"笑眼",		"花心",	"小乖",	"乖",
+      "捂嘴笑",	    "滑稽",		"你懂的",	"不高兴",	"怒",		"汗",	"黑线",	"泪",
+      "真棒",		"喷",		"惊哭",		"阴险",		"鄙视",		"酷",	"啊",	"狂汗",
+      "what",		"疑问",		"酸爽",		"呀咩爹",	"委屈",		"惊讶",	"睡觉",	"笑尿",
+      "挖鼻",		"吐",		"犀利",		"小红脸",	"懒得理",	"勉强",	"爱心",	"心碎",
+      "玫瑰",		"礼物",		"彩虹",		"太阳",		"星星月亮",	"钱币",	"茶杯",	"蛋糕",
+      "大拇指",	    "胜利",		"haha",		"OK",		"沙发",		"手纸",	"香蕉",	"便便",
+      "药丸",		"红领巾",	"蜡烛",		"音乐",		"灯泡"
+    ]
+  },
+  "阿鲁": {
+    "type": "biaoqing",
+    "baseURL": "{BIAOQING_ARU_PATH}",
+    "suffix": ".png",
+    "retinaSuffix": "_2x.png",
+    "input": "#({NAME})",
+    "imgClass": "biaoqing aru alu",
+    "container": [
+      "高兴",		"不高兴",	"皱眉",		"邪恶",		"大囧",		"惊喜",		"小眼睛",
+      "小怒",		"无语",		"傻笑",		"期待",		"呲牙",		"喜极而泣",
+      "脸红",		"亲亲",		"狂汗",		"得意",		"抠鼻",		"抽烟",
+      "内伤",		"口水",		"吐",		"吐舌",		"不说话",	"不出所料",
+      "装大款",	    "尴尬",		"喷水",		"喷血",		"咽气",		"愤怒",
+      "赞一个",	    "中指",		"看不见",	"无所谓",	"欢呼",		"无奈",
+      "害羞",		"想一想",	"鼓掌",		"观察",		"锁眉",		"黑线",
+      "汗",		    "哭泣",		"阴暗",		"暗地观察",	"蜡烛",		"投降",
+      "吐血倒地",	"便便",		"长草",		"肿包",		"坐等",		"看热闹",
+      "深思",		"献花",		"献黄瓜",	"中枪",		"击掌",		"扇耳光",	"中刀"
+    ]
+  },
+  "颜文字": {
+    "type": "emoticon",
+    "container": [
+      {
+        "icon": "OωO",
+        "text": "Author: DIYgod"
+      },
+      {
+        "icon": "|´・ω・)ノ",
+        "text": "Hi"
+      },
+      {
+        "icon": "ヾ(≧∇≦*)ゝ",
+        "text": "开心"
+      },
+      {
+        "icon": "(☆ω☆)",
+        "text": "星星眼"
+      },
+      {
+        "icon": "（╯‵□′）╯︵┴─┴",
+        "text": "掀桌"
+      },
+      {
+        "icon": "￣﹃￣",
+        "text": "流口水"
+      },
+      {
+        "icon": "(/ω＼)",
+        "text": "捂脸"
+      },
+      {
+        "icon": "∠( ᐛ 」∠)＿",
+        "text": "给跪"
+      },
+      {
+        "icon": "(๑•̀ㅁ•́ฅ)",
+        "text": "Hi"
+      },
+      {
+        "icon": "→_→",
+        "text": "斜眼"
+      },
+      {
+        "icon": "୧(๑•̀⌄•́๑)૭",
+        "text": "加油"
+      },
+      {
+        "icon": "٩(ˊᗜˋ*)و",
+        "text": "有木有WiFi"
+      },
+      {
+        "icon": "(ノ°ο°)ノ",
+        "text": "前方高能预警"
+      },
+      {
+        "icon": "(´இ皿இ｀)",
+        "text": "我从未见过如此厚颜无耻之人"
+      },
+      {
+        "icon": "⌇●﹏●⌇",
+        "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "(ฅ´ω`ฅ)",
+        "text": "已阅留爪"
+      },
+      {
+        "icon": "(╯°A°)╯︵○○○",
+        "text": "去吧大师球"
+      },
+      {
+        "icon": "φ(￣∇￣o)",
+        "text": "太萌惹"
+      },
+      {
+        "icon": "ヾ(´･ ･｀｡)ノ\"",
+        "text": "咦咦咦"
+      },
+      {
+        "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+        "text": "气呼呼"
+      },
+      {
+        "icon": "(ó﹏ò｡)",
+        "text": "我受到了惊吓"
+      },
+      {
+        "icon": "Σ(っ °Д °;)っ",
+        "text": "什么鬼"
+      },
+      {
+        "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+        "text": "摸摸头"
+      },
+      {
+        "icon": "╮(╯▽╰)╭ ",
+        "text": "无奈"
+      },
+      {
+        "icon": "o(*////▽////*)q ",
+        "text": "脸红"
+      },
+      {
+        "icon": "＞﹏＜",
+        "text": ""
+      },
+      {
+        "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+        "text": ""
+      },
+      {
+        "icon": "(｡•ˇ‸ˇ•｡)",
+        "text": ""
+      }
+    ]
+  }
+}
