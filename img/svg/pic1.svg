@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="548px" height="252px" viewBox="0 0 548 252" version="1.1">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blocking-by-a-domain-name">
+            <rect id="Rectangle-4" fill="#FFF5E1" x="0" y="0" width="235" height="58" rx="29"/>
+            <rect class="two-red trans-ease" id="Rectangle-3" fill="#DF3812" x="189" y="46" width="24" height="4"/>
+            <path class="three-red trans-ease" d="M189,46 L189,112" id="Path-2" stroke="#DF3812" stroke-width="2"/>
+            <path d="M46,46 L46,181" id="Path-2-Copy-3" class="three-grey trans-ease" stroke="#4D4D4D" stroke-width="2"/>
+            <path class="one-green trans-ease" d="M17.2013889,46 L17.2013889,252" id="Path-2-Copy-4" stroke="#67B279" stroke-width="2"/>
+            <rect class="two-green trans-ease" id="Rectangle-3-Copy-2" fill="#67B279" x="17" y="46" width="24" height="4"/>
+            <rect id="Rectangle-3-Copy" class="two-grey trans-ease" fill="#4D4D4D" x="45" y="46" width="140" height="4"/>
+            <g id="||-example.org-^" transform="translate(23.000000, 6.000000)" font-family="Arial" font-size="24" font-weight="normal">
+                <text id="||" fill="#67B279">
+                    <tspan class="three-green trans-ease" x="0" y="26">||</tspan>
+                </text>
+                <text id="example.org" fill="#4D4D4D">
+                    <tspan class="one-grey trans-ease" x="26.5546875" y="26">example.org</tspan>
+                </text>
+                <text id="^" fill="#DF3812">
+                    <tspan class="one-red trans-ease" x="168.65625" y="26">^</tspan>
+                </text>
+            </g>
+            <g id="Group-2" class="second-link" transform="translate(204.000000, 70.000000)" font-family="Arial" font-size="16" font-weight="normal">
+                <g id="^-—-separator-charac" fill="#4D4D4D">
+                    <text id="Separator-character">
+                        <tspan x="0.3125" y="17">分隔符 ("/"或":")</tspan>
+                        
+                        
+                        
+                        
+                    </text>
+                </g>
+                <g id="Learn-more-Copy" transform="translate(0.000000, 22.000000)" fill="#67B279">
+                    <text id="Learn-more">
+                        <tspan x="0" y="17">
+                            <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#basic-rules-special-characters" target="_top" class="link trans-ease">
+                                了解更多
+                            </a>
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="“example.org”-—-verb" class="three-link" transform="translate(61.000000, 152.000000)" fill="#4D4D4D" font-family="Arial" font-size="16" font-weight="normal">
+                <text id="Verbatim-text.-This">
+                    <tspan x="0.054688" y="17">确切的文本，该文本必须出现在要屏蔽的地址中</tspan>
+                </text>
+            </g>
+            <g id="Group" class="first-link" transform="translate(34.000000, 206.000000)" font-family="Arial" font-size="16" font-weight="normal">
+                <g id="||-—-matching-the-be" fill="#4D4D4D">
+                    <g id="Matching-the-beginni">
+                        <text>
+                            <tspan x="0.4375" y="17">匹配地址的开头(例如,</tspan>
+                            <tspan x="155" y="17" font-family="Arial" font-weight="bold">http://</tspan>
+                            <tspan x="205" y="17">或者</tspan>
+                            <tspan x="240" y="17" font-family="Arial" font-weight="bold">https://</tspan>
+                            <tspan x="300" y="17">).</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Learn-more-Copy" transform="translate(0.000000, 21.000000)" fill="#67B279">
+                    <g id="Learn-more">
+                        <text>
+                            <tspan x="0" y="17">
+                                <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#basic-rules-special-characters" target="_top" class="link trans-ease">了解更多</a>
+                            </tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <style>
+    .link {
+        fill: #67B279;
+    }
+    .link:hover {
+        fill: #3b8a58;
+        text-decoration: underline;
+    }
+    .trans-ease {
+        transition: 0.3s ease fill, 0.3s ease stroke;
+    }
+    .fill-elem-green {
+        fill: #ace2b9;
+    }
+    .stroke-elem-green {
+        stroke: #ace2b9;
+    }
+    .fill-elem-red {
+        fill: #ff957d;
+    }
+    .stroke-elem-red {
+        stroke: #ff957d;
+    }
+    .fill-elem-grey {
+        fill: #949393;
+    }
+    .stroke-elem-grey {
+        stroke: #949393;
+    }
+    </style>
+        <script>
+        var oneGreen = document.querySelector('.one-green');
+        var twoGreen = document.querySelector('.two-green');
+        var threeGreen = document.querySelector('.three-green');
+        var oneLink = document.querySelector('.first-link');
+        
+        oneLink.addEventListener('mouseover', function() {
+            oneGreen.classList.add('stroke-elem-green');
+            twoGreen.classList.add('fill-elem-green');
+            threeGreen.classList.add('fill-elem-green');
+        })
+
+        oneLink.addEventListener('mouseout', function() {
+            oneGreen.classList.remove('stroke-elem-green');
+            twoGreen.classList.remove('fill-elem-green');
+            threeGreen.classList.remove('fill-elem-green');
+        })
+
+        var oneRed = document.querySelector('.one-red');
+        var twoRed = document.querySelector('.two-red');
+        var threeRed = document.querySelector('.three-red');
+        var twoLink = document.querySelector('.second-link');
+        
+        twoLink.addEventListener('mouseover', function() {
+            oneRed.classList.add('fill-elem-red');
+            twoRed.classList.add('fill-elem-red');
+            threeRed.classList.add('stroke-elem-red');
+        })
+
+        twoLink.addEventListener('mouseout', function() {
+            oneRed.classList.remove('fill-elem-red');
+            twoRed.classList.remove('fill-elem-red');
+            threeRed.classList.remove('stroke-elem-red');
+        })
+
+        var oneGrey = document.querySelector('.one-grey');
+        var twoGrey = document.querySelector('.two-grey');
+        var threeGrey = document.querySelector('.three-grey');
+        var threeLink = document.querySelector('.three-link');
+        
+        threeLink.addEventListener('mouseover', function() {
+            oneGrey.classList.add('fill-elem-grey');
+            twoGrey.classList.add('fill-elem-grey');
+            threeGrey.classList.add('stroke-elem-grey');
+        })
+
+        threeLink.addEventListener('mouseout', function() {
+            oneGrey.classList.remove('fill-elem-grey');
+            twoGrey.classList.remove('fill-elem-grey');
+            threeGrey.classList.remove('stroke-elem-grey');
+        })
+    </script>
+</svg>

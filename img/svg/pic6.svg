@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="555px" height="295px" viewBox="0 0 555 295" version="1.1">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cosmetic-rules">
+            <g id=".banner-—-Selector-b" transform="translate(216.000000, 97.000000)" fill="#4D4D4D" font-family="Arial" font-size="16" font-weight="normal">
+                <text id="CSS-selector-of-an-e">
+                    <tspan class="three-link" x="0.25" y="17">一个要隐藏的元素的CSS选择器</tspan>
+                </text>
+            </g>
+            <g class="two-link" id="##-—-Rule-marker-tha" transform="translate(179.000000, 141.000000)" font-family="Arial" font-size="16" font-weight="normal">
+                <text id="Cosmetic-rule-marker" fill="#4D4D4D">
+                    <tspan x="0.953125" y="17">美化规则标记，唯一的目的是表明</tspan>
+                    <tspan x="0.953125" y="38">这是一条"隐藏元素"的美化规则</tspan>
+                </text>
+                <g id="Learn-more-Copy-2" transform="translate(1.000000, 43.000000)" fill="#67B279">
+                    <text id="Learn-more-about-oth">
+                        <tspan x="0" y="17">
+                            <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#cosmetic-rules" target="_top" class="link trans-ease">了解更多关于规则修饰符</a>
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle-4" fill="#FFF5E1" x="0" y="0" width="310" height="58" rx="29"/>
+            <path class="three-burgundy trans-ease" d="M201,46 L201,123.5" id="Path-2-Copy-3" stroke="#9C1D00" stroke-width="2"/>
+            <path class="three-green trans-ease" d="M164,46 L164,207" id="Path-2-Copy-4" stroke="#09C39A" stroke-width="2"/>
+            <rect class="two-green trans-ease" id="Rectangle-3-Copy-2" fill="#09C39A" x="164" y="46" width="32" height="4"/>
+            <path class="two-purple trans-ease" d="M20,46 L19.7986111,295" id="Path-2-Copy-4" stroke="#9013FE" stroke-width="2"/>
+            <rect class="one-purple trans-ease" id="Rectangle-3-Copy-2" fill="#9013FE" x="19.7986111" y="46" width="139.201389" height="4"/>
+            <rect class="two-burgundy trans-ease" id="Rectangle-3-Copy" fill="#9C1D00" x="200" y="46" width="92" height="4"/>
+            <g id="example.org-##-.bann" transform="translate(23.000000, 6.000000)" font-family="Arial" font-size="24" font-weight="normal">
+                <text id="example.org" fill="#4D4D4D">
+                    <tspan class="one-grey trans-ease" x="0" y="26">example.org</tspan>
+                </text>
+                <text id="##" fill="#09C39A">
+                    <tspan class="one-green trans-ease" x="142.101562" y="26">##</tspan>
+                </text>
+                <text id=".banner" fill="#9C1D00">
+                    <tspan class="one-burgundy trans-ease" x="177.082031" y="26">.banner</tspan>
+                </text>
+            </g>
+            <g class="first-link" id="Group-2" transform="translate(36.000000, 223.000000)" font-size="16">
+                <g id="@@-—-a-marker-that-i" fill="#4D4D4D" font-family="Arial" font-weight="normal">
+                    <g id="Exception-rules-mark">
+                        <text id="Domain-name.-This-ru">
+                            <tspan x="0" y="17">域名，该规则将适用于该网站的所有页面</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="@@-—-a-marker-that-i" transform="translate(0.000000, 24.000000)" fill="#4D4D4D" font-family="Arial" font-weight="bold">
+                    <g id="Exception-rules-mark">
+                        <text id="Note:-this-must-be-a">
+                            <tspan x="0" y="17">注意：这里必须是一个域名而不是一个地址路径</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Learn-more-Copy" transform="translate(0.000000, 49.000000)" fill="#67B279" font-family="Arial" font-weight="normal">
+                    <g id="Learn-more">
+                        <text>
+                            <tspan x="0" y="17">
+                                <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#element-hiding-rules" target="_top" class="link trans-ease">了解更多</a>
+                            </tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <style>
+        .link {
+            fill: #67B279;
+        }
+        .link:hover {
+            fill: #3b8a58;
+            text-decoration: underline;
+        }
+        .trans-ease {
+            transition: 0.3s ease fill, 0.3s ease stroke;
+        }
+        .fill-elem-green {
+            fill: #ace2b9;
+        }
+        .stroke-elem-green {
+            stroke: #ace2b9;
+        }
+        .fill-elem-burgundy {
+            fill: #ff9d87;
+        }
+        .stroke-elem-burgundy {
+            stroke: #ff9d87;
+        }
+        .fill-elem-grey {
+            fill: #949393;
+        }
+        .fill-elem-purple {
+            fill: #c696f1;
+        }
+        .stroke-elem-purple {
+            stroke: #c696f1;
+        }
+    </style>
+
+    <script>
+        var oneGrey = document.querySelector('.one-grey');
+        var onePurple = document.querySelector('.one-purple');
+        var twoPurple = document.querySelector('.two-purple');
+
+        var oneLink = document.querySelector('.first-link');
+        
+        oneLink.addEventListener('mouseover', function() {
+            oneGrey.classList.add('fill-elem-grey');
+            onePurple.classList.add('fill-elem-purple');
+            twoPurple.classList.add('stroke-elem-purple');
+        })
+
+        oneLink.addEventListener('mouseout', function() {
+            oneGrey.classList.remove('fill-elem-grey');
+            onePurple.classList.remove('fill-elem-purple');
+            twoPurple.classList.remove('stroke-elem-purple');
+        })
+
+        var oneGreen = document.querySelector('.one-green');
+        var twoGreen = document.querySelector('.two-green');
+        var threeGreen = document.querySelector('.three-green');
+        var twoLink = document.querySelector('.two-link');
+        
+        twoLink.addEventListener('mouseover', function() {
+            oneGreen.classList.add('fill-elem-green');
+            twoGreen.classList.add('fill-elem-green');
+            threeGreen.classList.add('stroke-elem-green');
+        })
+
+        twoLink.addEventListener('mouseout', function() {
+            oneGreen.classList.remove('fill-elem-green');
+            twoGreen.classList.remove('fill-elem-green');
+            threeGreen.classList.remove('stroke-elem-green');
+        })
+
+        var onebuBgundy = document.querySelector('.one-burgundy');
+        var twobuBgundy = document.querySelector('.two-burgundy');
+        var threeBurgundy = document.querySelector('.three-burgundy');
+        var threeLink = document.querySelector('.three-link');
+        
+        threeLink.addEventListener('mouseover', function() {
+            onebuBgundy.classList.add('fill-elem-burgundy');
+            twobuBgundy.classList.add('fill-elem-burgundy');
+            threeBurgundy.classList.add('stroke-elem-burgundy');
+        })
+
+        threeLink.addEventListener('mouseout', function() {
+            onebuBgundy.classList.remove('fill-elem-burgundy');
+            twobuBgundy.classList.remove('fill-elem-burgundy');
+            threeBurgundy.classList.remove('stroke-elem-burgundy');
+        })
+    </script>
+</svg>

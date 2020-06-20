@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="715px" height="519px" viewBox="0 0 715 519" version="1.1">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Exception-for-an-entire-site">
+            <rect id="Rectangle-4" fill="#FFF5E1" x="0" y="0" width="424" height="58" rx="29"/>
+            <path class="three-grey trans-ease" d="M100,46 L100,361" id="Path-2-Copy-3" stroke="#4D4D4D" stroke-width="2"/>
+            <path class="three-grey-light trans-ease" d="M294,46 L294,144" id="Path-2-Copy-5" stroke="#888888" stroke-width="2"/>
+            <path class="three-blue trans-ease" d="M270,46 L270,200" id="Path-2-Copy-9" stroke="#4A90E2" stroke-width="2"/>
+            <path class="three-green trans-ease" d="M71,46 L71,433" id="Path-2-Copy-4" stroke="#67B279" stroke-width="2"/>
+            <rect class="two-green trans-ease" id="Rectangle-3-Copy-2" fill="#67B279" x="71" y="46" width="24" height="4"/>
+            <rect class="two-red trans-ease" id="Rectangle-3-Copy-3" fill="#DF3812" x="245" y="46" width="20" height="4"/>
+            <path class="three-red trans-ease" d="M246,47 L246,292" id="Path-2" stroke="#DF3812" stroke-width="2"/>
+            <rect class="two-blue trans-ease" id="Rectangle-3-Copy-4" fill="#4A90E2" x="269" y="46" width="20" height="4"/>
+            <rect class="two-grey-light trans-ease" id="Rectangle-3-Copy-8" fill="#888888" x="293" y="46" width="109" height="4"/>
+            <path class="three-purple trans-ease" d="M20,46 L20,519" id="Path-2-Copy-4" stroke="#9013FE" stroke-width="2"/>
+            <rect class="two-purple trans-ease" id="Rectangle-3-Copy-2" fill="#9013FE" x="19.7986111" y="46" width="46.2013889" height="4"/>
+            <g class="six-link" id="“document”-—-Whole-e" transform="translate(308.000000, 73.000000)" font-size="16">
+                <text id="“document”" fill="#888888" font-family="Arial" font-weight="bold">
+                    <tspan x="0" y="45">“document”</tspan>
+                </text>
+                <text id="—-disables-both-cosm" fill="#4D4D4D" font-family="Arial" font-weight="normal">
+                    <tspan x="100" y="45">— 在网站的每个页面禁用美化和屏蔽规则</tspan>
+                </text>
+                
+                <g id="Learn-more-Copy" transform="translate(2.000000, 48.000000)" fill="#67B279" font-family="Arial" font-weight="normal">
+                    <text id="Learn-more-about-rul">
+                        <tspan x="0" y="17">
+                            <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#exceptions-modifiers" target="_top" class="link trans-ease">了解更多关于规则修饰符</a>
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <rect class="two-grey trans-ease" id="Rectangle-3-Copy" fill="#4D4D4D" x="99" y="46" width="142" height="4"/>
+            <g id="@@-||-example.com-^" transform="translate(23.000000, 6.000000)" font-family="Arial" font-size="24" font-weight="normal">
+                <text class="one-purple trans-ease" id="@@" fill="#9013FE">
+                    <tspan x="0" y="26">@@</tspan>
+                </text>
+                <text class="one-green trans-ease" id="||" fill="#67B279">
+                    <tspan x="54.4179688" y="26">||</tspan>
+                </text>
+                <text id="example.com" fill="#4D4D4D">
+                    <tspan class="one-grey trans-ease" x="76.7773438" y="26">example.com</tspan>
+                </text>
+                <text class="one-red trans-ease" id="^" fill="#DF3812">
+                    <tspan x="223.675781" y="26">^</tspan>
+                </text>
+                <text id="$" fill="#4A90E2">
+                    <tspan class="one-blue trans-ease" x="248.9375" y="26">$</tspan>
+                </text>
+                <text id="document" fill="#888888">
+                    <tspan class="one-grey-light trans-ease" x="270.859375" y="26">document</tspan>
+                </text>
+            </g>
+            <g class="five-link" id="$-—-option-separator" transform="translate(286.000000, 174.000000)" fill="#4D4D4D" font-family="Arial" font-size="16" font-weight="normal">
+                <text id="Options-separator.-T">
+                    <tspan x="0.203125" y="17">分隔修饰符，这个字符用来分隔地址和规则修饰符</tspan>
+                </text>
+                
+            </g>
+            <g class="first-link" id="Group-2" transform="translate(39.000000, 468.000000)" font-family="Arial" font-size="16" font-weight="normal">
+                <g id="@@-—-a-marker-that-i" fill="#4D4D4D">
+                    <g id="Exception-rules-mark">
+                        <text>
+                            <tspan x="0" y="17">排除规则标记，以@@开头的规则不会过滤匹配的地址</tspan>
+                            
+                            
+                        </text>
+                    </g>
+                </g>
+                <g id="Learn-more-Copy" transform="translate(1.000000, 24.000000)" fill="#67B279">
+                    <g id="Learn-more">
+                        <text>
+                            <tspan x="0" y="17">
+                                <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#basic-rules-syntax" target="_top" class="link trans-ease">了解更多</a>
+                            </tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="“example.org”-—-verb" transform="translate(114.000000, 331.000000)" fill="#4D4D4D" font-family="Arial" font-size="16" font-weight="normal">
+                <g id="Verbatim-text.-This">
+                    <text id="Verbatim-text.-This-text-must-be-present-in-the-address-to-be-blocked.">
+                        <tspan class="three-link" x="0.054688" y="17">确切的文本，该文本必须出现在要屏蔽的地址中</tspan>
+                    </text>
+                </g>
+            </g>
+            <g class="two-link" id="Group-3" transform="translate(89.000000, 385.000000)" font-family="Arial" font-size="16" font-weight="normal">
+                <g id="||-—-matching-the-be" fill="#4D4D4D">
+                    <g id="Matching-the-beginni">
+                        <text>
+                            <tspan x="0.4375" y="17">匹配地址的开头(例如,</tspan>
+                            <tspan x="155" y="17" font-family="Arial" font-weight="bold">http://</tspan>
+                            <tspan x="205" y="17">或</tspan>
+                            <tspan x="230" y="17" font-family="Arial" font-weight="bold">https://</tspan>
+                            <tspan x="290" y="17">).</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Learn-more-Copy" transform="translate(1.000000, 21.000000)" fill="#67B279">
+                    <g id="Learn-more">
+                        <text>
+                            <tspan x="0" y="17">
+                                <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#basic-rules-special-characters" target="_top" class="link trans-ease">了解更多</a>
+                            </tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g class="four-link" id="Group-2" transform="translate(262.000000, 245.000000)" font-family="Arial" font-size="16" font-weight="normal">
+                <g id="^-—-separator-charac" fill="#4D4D4D">
+                    <text id="Separator-character">
+                        <tspan x="0.3125" y="17">分隔符("/" 或 ":")</tspan>
+                        
+                        
+                        
+                        
+                    </text>
+                </g>
+                <g id="Learn-more-Copy" transform="translate(0.000000, 22.000000)" fill="#67B279">
+                    <text id="Learn-more">
+                        <tspan x="0" y="17">
+                            <a xlink:href="https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#basic-rules-special-characters" target="_top" class="link trans-ease">了解更多</a>
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <style>
+        .link {
+            fill: #67B279;
+        }
+        .link:hover {
+            fill: #3b8a58;
+            text-decoration: underline;
+        }
+        .trans-ease {
+            transition: 0.3s ease fill, 0.3s ease stroke;
+        }
+        .fill-elem-green {
+            fill: #ace2b9;
+        }
+        .stroke-elem-green {
+            stroke: #ace2b9;
+        }
+        .fill-elem-red {
+            fill: #ff957d;
+        }
+        .stroke-elem-red {
+            stroke: #ff957d;
+        }
+        .fill-elem-grey {
+            fill: #949393;
+        }
+        .stroke-elem-grey {
+            stroke: #949393;
+        }
+        .fill-elem-blue {
+            fill: #a0ccff;
+        }
+        .stroke-elem-blue {
+            stroke: #a0ccff;
+        }
+        .fill-elem-purple {
+            fill: #c696f1;
+        }
+        .stroke-elem-purple {
+            stroke: #c696f1;
+        }
+        .fill-elem-grey-light {
+            fill: #3e3e3e;
+        }
+        .stroke-elem-grey-light {
+            stroke: #3e3e3e;
+        }
+    </style>
+    <script>
+        var oneGreen = document.querySelector('.one-green');
+        var twoGreen = document.querySelector('.two-green');
+        var threeGreen = document.querySelector('.three-green');
+        var twoLink = document.querySelector('.two-link');
+        
+        twoLink.addEventListener('mouseover', function() {
+            oneGreen.classList.add('fill-elem-green');
+            twoGreen.classList.add('fill-elem-green');
+            threeGreen.classList.add('stroke-elem-green');
+        })
+
+        twoLink.addEventListener('mouseout', function() {
+            oneGreen.classList.remove('fill-elem-green');
+            twoGreen.classList.remove('fill-elem-green');
+            threeGreen.classList.remove('stroke-elem-green');
+        })
+
+        var onePurple = document.querySelector('.one-purple');
+        var twoPurple = document.querySelector('.two-purple');
+        var threePurple = document.querySelector('.three-purple');
+        var firstLink = document.querySelector('.first-link');
+        
+        firstLink.addEventListener('mouseover', function() {
+            onePurple.classList.add('fill-elem-purple');
+            twoPurple.classList.add('fill-elem-purple');
+            threePurple.classList.add('stroke-elem-purple');
+        })
+
+        firstLink.addEventListener('mouseout', function() {
+            onePurple.classList.remove('fill-elem-purple');
+            twoPurple.classList.remove('fill-elem-purple');
+            threePurple.classList.remove('stroke-elem-purple');
+        })
+
+        var oneGrey = document.querySelector('.one-grey');
+        var twoGrey = document.querySelector('.two-grey');
+        var threeGrey = document.querySelector('.three-grey');
+        var threeLink = document.querySelector('.three-link');
+        
+        threeLink.addEventListener('mouseover', function() {
+            oneGrey.classList.add('fill-elem-grey');
+            twoGrey.classList.add('fill-elem-grey');
+            threeGrey.classList.add('stroke-elem-grey');
+        })
+
+        threeLink.addEventListener('mouseout', function() {
+            oneGrey.classList.remove('fill-elem-grey');
+            twoGrey.classList.remove('fill-elem-grey');
+            threeGrey.classList.remove('stroke-elem-grey');
+        })
+
+        var oneRed = document.querySelector('.one-red');
+        var twoRed = document.querySelector('.two-red');
+        var threeRed = document.querySelector('.three-red');
+        var fourLink = document.querySelector('.four-link');
+        
+        fourLink.addEventListener('mouseover', function() {
+            oneRed.classList.add('fill-elem-red');
+            twoRed.classList.add('fill-elem-red');
+            threeRed.classList.add('stroke-elem-red');
+        })
+
+        fourLink.addEventListener('mouseout', function() {
+            oneRed.classList.remove('fill-elem-red');
+            twoRed.classList.remove('fill-elem-red');
+            threeRed.classList.remove('stroke-elem-red');
+        })
+
+        var oneBlue = document.querySelector('.one-blue');
+        var twoBlue = document.querySelector('.two-blue');
+        var threeBlue = document.querySelector('.three-blue');
+        var fiveLink = document.querySelector('.five-link');
+        
+        fiveLink.addEventListener('mouseover', function() {
+            oneBlue.classList.add('fill-elem-blue');
+            twoBlue.classList.add('fill-elem-blue');
+            threeBlue.classList.add('stroke-elem-blue');
+        })
+
+        fiveLink.addEventListener('mouseout', function() {
+            oneBlue.classList.remove('fill-elem-blue');
+            twoBlue.classList.remove('fill-elem-blue');
+            threeBlue.classList.remove('stroke-elem-blue');
+        })
+
+        var oneGreyLight = document.querySelector('.one-grey-light');
+        var twoGreyLight = document.querySelector('.two-grey-light');
+        var threeGreyLight = document.querySelector('.three-grey-light');
+        var sixLink = document.querySelector('.six-link');
+        
+        sixLink.addEventListener('mouseover', function() {
+            oneGreyLight.classList.add('fill-elem-grey-light');
+            twoGreyLight.classList.add('fill-elem-grey-light');
+            threeGreyLight.classList.add('stroke-elem-grey-light');
+        })
+
+        sixLink.addEventListener('mouseout', function() {
+            oneGreyLight.classList.remove('fill-elem-grey-light');
+            twoGreyLight.classList.remove('fill-elem-grey-light');
+            threeGreyLight.classList.remove('stroke-elem-grey-light');
+        })
+
+    </script>
+</svg>
